@@ -8,6 +8,10 @@
   xmlns:video="http://www.google.com/schemas/sitemap-video/1.1"
 >
   <url>
+    <loc>https://nosullho.github.io/post/20220708</loc>
+    <lastmod>2022-07-25T08:47:59.612Z</lastmod>
+  </url>
+  <url>
     <loc>https://nosullho.github.io/post/20220704</loc>
     <lastmod>2022-07-03T09:02:08.146Z</lastmod>
   </url>
