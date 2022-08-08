@@ -8,19 +8,7 @@
   xmlns:video="http://www.google.com/schemas/sitemap-video/1.1"
 >
   <url>
-    <loc>https://nosullho.github.io</loc>
+    <loc>https://nosullho.github.io/shoes/shoes20220803</loc>
     <lastmod>2022-08-08T09:49:25.050Z</lastmod>
-  </url>
-  <url>
-    <loc>https://nosullho.github.io/post</loc>
-    <lastmod>2022-06-27T13:46:27.170Z</lastmod>
-  </url>
-  <url>
-    <loc>https://nosullho.github.io/shoes</loc>
-    <lastmod>2022-08-08T09:49:25.050Z</lastmod>
-  </url>
-  <url>
-    <loc>https://nosullho.github.io/swimsuit</loc>
-    <lastmod>2022-08-08T06:44:44.468Z</lastmod>
   </url>
 </urlset>
