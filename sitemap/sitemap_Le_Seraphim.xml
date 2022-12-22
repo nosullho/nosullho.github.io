@@ -8,11 +8,7 @@
   xmlns:video="http://www.google.com/schemas/sitemap-video/1.1"
 >
   <url>
-    <loc>https://nosullho.github.io</loc>
-    <lastmod>2022-12-22T08:19:25.900Z</lastmod>
-  </url>
-  <url>
-    <loc>https://nosullho.github.io/Le_Seraphim</loc>
+    <loc>https://nosullho.github.io/Le_Seraphim/kazuha-20221222</loc>
     <lastmod>2022-12-22T08:19:25.900Z</lastmod>
   </url>
 </urlset>
